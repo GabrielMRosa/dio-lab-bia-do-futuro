@@ -1,29 +1,35 @@
 # Pitch (3 minutos)
-
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+##1. O Problema (30 seg)
 
-[Sua descrição aqui]
+Muitas pessoas têm dificuldade em entender e organizar suas finanças.
+Mesmo usando aplicativos de banco, os usuários veem apenas dados e transações, mas não recebem orientação clara sobre o que fazer com seu dinheiro.
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+##2. A Solução (1 min)
 
-[Sua descrição aqui]
+Para resolver esse problema, criamos a Clara, uma assistente financeira inteligente.
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+Ela analisa dados do usuário, como saldo, perfil de investidor e histórico de transações, e transforma essas informações em orientações simples.
 
-[Descreva o que será mostrado]
+Assim, o usuário consegue entender melhor seus gastos, organizar seu dinheiro e tomar decisões financeiras mais conscientes.
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+##3. Demonstração (1 min)
 
-[Sua descrição aqui]
+Na demonstração será mostrado o agente Clara funcionando em uma interface de chat.
+
+Primeiro, o usuário pergunta se está gastando muito no mês. A Clara analisa os dados e responde com base nas transações do cliente.
+
+Depois, será mostrado outro exemplo onde o usuário pergunta o que fazer com dinheiro parado na conta, e a Clara sugere opções de acordo com o perfil do investidor.
+
+##4. Diferencial e Impacto (30 seg)
+
+O diferencial da Clara é transformar dados financeiros em orientações simples e personalizadas usando IA.
+
+Além disso, o agente responde apenas com base nos dados fornecidos, o que aumenta a confiabilidade das respostas.
+
+O impacto é ajudar pessoas a entender melhor suas finanças e tomar decisões mais seguras no dia a dia.
 
 ---
 
