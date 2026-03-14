@@ -9,7 +9,7 @@ Mesmo usando aplicativos de banco, os usuários veem apenas dados e transações
 
 ##2. A Solução (1 min)
 
-Para resolver esse problema, criamos a Clara, uma assistente financeira inteligente.
+Para resolver esse problema, temos Clara, uma assistente financeira inteligente.
 
 Ela analisa dados do usuário, como saldo, perfil de investidor e histórico de transações, e transforma essas informações em orientações simples.
 
@@ -21,11 +21,9 @@ Na demonstração será mostrado o agente Clara funcionando em uma interface de 
 
 Primeiro, o usuário pergunta se está gastando muito no mês. A Clara analisa os dados e responde com base nas transações do cliente.
 
-Depois, será mostrado outro exemplo onde o usuário pergunta o que fazer com dinheiro parado na conta, e a Clara sugere opções de acordo com o perfil do investidor.
-
 ##4. Diferencial e Impacto (30 seg)
 
-O diferencial da Clara é transformar dados financeiros em orientações simples e personalizadas usando IA.
+O diferencial da Clara é transformar dados financeiros em orientações simples e personalizadas.
 
 Além disso, o agente responde apenas com base nos dados fornecidos, o que aumenta a confiabilidade das respostas.
 
