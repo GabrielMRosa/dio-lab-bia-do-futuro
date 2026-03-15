@@ -33,16 +33,16 @@ O impacto é ajudar pessoas a entender melhor suas finanças e tomar decisões m
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 3 minutos
+- [X] Problema claramente definido
+- [X] Solução demonstrada na prática
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+
+
